@@ -17,7 +17,6 @@ I am studying Computer Science with a focus on Artificial Intelligence (AI). I a
 If you have any questions or just want to chat, feel free to reach out!
 
 - **Email**: dibiase.manuel95@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](Link)
 
 Thank you for visiting! 🚀
 
