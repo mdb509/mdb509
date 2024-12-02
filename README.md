@@ -2,8 +2,7 @@
 
 ## About Me
 
-I am studying Computer Science with a focus on Artificial Intelligence (AI). I am passionate about developing innovative solutions and leveraging AI technologies to solve complex problems. 
-
+I am studying Computer Science with a focus on Artificial Intelligence (AI). 
 ## Interests
 
 - Artificial Intelligence
