@@ -2,14 +2,7 @@
 
 ## About Me
 
-I am studying Computer Science with a focus on Artificial Intelligence (AI). 
-## Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Data Analysis
-- Software Development
-- Open Source Projects
+I am studying Computer Science. 
 
 ## Contact
 
